@@ -1,0 +1,3 @@
+# TaoTaoShop
+淘淘商城
+框架主要使用：Spring，springMvc,mybatis,redis........
