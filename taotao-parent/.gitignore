@@ -1,4 +1,5 @@
 /.idea
+/.iml
 /.gradle/
 /rocketmq/build/
 /rocketmq/out/
