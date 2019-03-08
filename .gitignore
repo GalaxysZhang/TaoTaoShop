@@ -1,6 +1,36 @@
 # Created by .ignore support plugin (hsz.mobi)
 .gitignore
-.idea
+*.class
+
+#package file
+*.war
+*.ear
+
+#kdiff3 ignore
+*.orig
+
+#maven ignore
+target/
+
+#eclipse ignore
+.settings/
+.project
+.classpath
+
+#idea ignore
 .idea/
-*.iml/
-taotao-parent/taotao-common/src/main/
+/idea/
+*.ipr
+*.iml
+*.iws
+
+#temp file
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+
+#system ignore
+.DS_Store
+Thumbs.db
