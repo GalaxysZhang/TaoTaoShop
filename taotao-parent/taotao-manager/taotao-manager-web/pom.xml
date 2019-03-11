@@ -51,21 +51,7 @@
 
     <build>
         <finalName>taotao-manager-web</finalName>
-<!--        <plugins>
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-war-plugin</artifactId>
-                <version>3.0</version>
-                <configuration>
-                    <webResources>
-                        <resource>
-                              &lt;!&ndash; this is relative to the pom.xml directory &ndash;&gt;
-                            <directory>webapp\WEB-INF\web.xml</directory>
-                        </resource>
-                    </webResources>
-                </configuration>
-            </plugin>
-        </plugins>-->
+
     </build>
 
 
