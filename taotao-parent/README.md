@@ -23,3 +23,6 @@
 	Mysql
 	Nginx（web服务器）
 
+系统登录：
+欢迎页面：http://localhost:8081/
+后台登录页面：http://localhost:8081/static/back/login.html

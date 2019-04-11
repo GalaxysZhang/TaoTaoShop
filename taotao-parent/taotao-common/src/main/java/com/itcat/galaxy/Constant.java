@@ -9,5 +9,11 @@ package com.itcat.galaxy;
  */
 public class Constant {
 
+    /* 竖线 */
+    public static final String SYMBOL_VERTICAL_LINE = "|";
+    /* 冒号 */
+    public static final String SYMBOL_COLON = ":";
+    /* 逗号 */
+    public static final String SYMBOL_COMMA = ",";
 
 }
